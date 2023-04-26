@@ -1,0 +1,61 @@
+{
+  "mod_elements": [
+    {
+      "name": "Badlandsgoldsite",
+      "type": "structure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "badlandsgoldsite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/forgottenbadlands/world/features/BadlandsgoldsiteFeature.java"
+        ]
+      }
+    },
+    {
+      "name": "Badlandsruinedbarn",
+      "type": "structure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "badlandsruinedbarn",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/forgottenbadlands/world/features/BadlandsruinedbarnFeature.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "forgottenbadlands",
+    "modName": "Forgotten badlands",
+    "version": "1.0.0",
+    "description": "Adds more structures to vanilla\u0027s forgotten biome, the badlands.",
+    "author": "SteeliusMC, MCreator",
+    "websiteURL": "https://https://modrinth.com/user/SteeliusMC",
+    "license": "Mozilla Public License 2.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "portinglib"
+    ],
+    "currentGenerator": "fabric-1.19.2",
+    "credits": "Made by https://modrinth.com/user/SteeliusMC Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.forgottenbadlands",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
